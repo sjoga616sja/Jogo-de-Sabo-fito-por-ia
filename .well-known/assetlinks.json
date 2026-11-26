@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sjoga616sja.twa",
+      "sha256_cert_fingerprints": [
+        "59:D5:97:D0:32:E4:43:A2:27:03:B1:2C:80:ED:FA:B1:01:A8:AE:0C:1E:87:DA:3C:91:44:C8:5E:CC:06:21:8D"
+      ]
+    }
+  }
+]
